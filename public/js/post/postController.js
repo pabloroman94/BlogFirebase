@@ -8,7 +8,7 @@ $(() => {
     sessionStorage.setItem('imgNewPost', null)
 
     // TODO: Validar que el usuario esta autenticado
-
+ 
     // Materialize.toast(`Para crear el post debes estar autenticado`, 4000)
 
     $('#modalPost').modal('open')
